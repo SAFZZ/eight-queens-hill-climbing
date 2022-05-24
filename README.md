@@ -22,6 +22,8 @@ Display the necessary states and the time taken.
 
 
 ## PROGRAM
+## Developed By: SAFA
+## Register Number: 212220230040
 ```python
 %matplotlib inline
 import matplotlib.pyplot as plt
@@ -196,7 +198,24 @@ plt.plot(iterations,time_taken)
 plt.show()    
 ```
 
+## OUTPUT:
+### Results.
+![WhatsApp Image 2022-05-24 at 2 03 49 PM (1)](https://user-images.githubusercontent.com/75234912/169991353-7d938762-ed23-4419-9f77-91822123e686.jpeg)
 
+### Shows the timetaken for each iterations.
+![WhatsApp Image 2022-05-24 at 2 03 50 PM (1)](https://user-images.githubusercontent.com/75234912/169991278-46cbbd21-ee37-4d6d-8421-e656d4cdcd5a.jpeg)
+![WhatsApp Image 2022-05-24 at 2 03 50 PM](https://user-images.githubusercontent.com/75234912/169991297-8b54f400-29c4-4d3a-9fca-df547e01a621.jpeg)
+
+when the iterations increase, to complete the search time increases too.
+### 8-Queen (initial conflicts).
+![2](https://user-images.githubusercontent.com/75234912/169991845-f3d5659b-f437-4bdd-b819-496519f3df86.jpeg)
+
+#### (final solution)
+![1](https://user-images.githubusercontent.com/75234912/169991613-9fdfa2c5-76c9-4afa-a944-24a4e7f1c9cf.jpeg)
+
+## Time Complexity Plot
+#### Plot a graph for the various value of N and time(seconds)
+![3](https://user-images.githubusercontent.com/75234912/169992248-2987f077-ffd6-426f-b9a3-4cd3dc3f1c1c.jpeg)
 
 
 ## RESULT:
